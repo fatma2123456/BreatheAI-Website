@@ -74,3 +74,12 @@ To get **BreatheAI** running on your machine, follow these steps:
 - OpenCV
 - Dependencies listed in <a href="https://github.com/fatma2123456/BreatheAI-Website/blob/main/requirements.txt">requirements.txt</a>
 
+### Installation Instructions:
+
+#### 1. Clone the Repository
+
+Let’s get the magic started! First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/BreatheAI.git
+cd BreatheAI
