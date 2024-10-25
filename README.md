@@ -1,6 +1,6 @@
 # BreatheAI - **AI in Medical Imaging: Classifying Respiratory Diseases from X-Rays** 🤖💡
 
-Welcome to **BreatheAI**! This project is designed to assist healthcare professionals and patients by leveraging AI to classify various respiratory diseases from chest X-rays. With cutting-edge machine learning models, BreatheAI can help detect and differentiate conditions like **Viral Pneumonia**, **Bacterial Pneumonia**, **Tuberculosis**, and potentially more. Our aim is to provide **accurate, interpretable results** that support quicker and more effective diagnoses.
+Welcome to **BreatheAI**! This project is designed to assist healthcare professionals and patients by leveraging AI to classify various respiratory diseases from chest X-rays. With cutting-edge machine learning models, BreatheAI can help detect and differentiate conditions like **Viral Pneumonia**, **Bacterial Pneumonia**, **Tuberculosis**, **Viral Pneumonia**,**Lung Opacity**,**COVID-19**  and potentially more. Our aim is to provide **accurate, interpretable results** that support quicker and more effective diagnoses.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to **BreatheAI**! This project is designed to assist healthcare professi
 
 ## Key Features 🚀
 
-- **Multiclass Classification**: Detects and classifies multiple respiratory diseases, including **Viral Pneumonia**, **Bacterial Pneumonia**, and **Tuberculosis**.
+- **Multiclass Classification**: Detects and classifies multiple respiratory diseases, including **Viral Pneumonia**, **Bacterial Pneumonia**, **Tuberculosis**, **Viral Pneumonia**,**Lung Opacity**,**COVID-19** .
 - **Role-Based Results**: Tailored results for both doctors (detailed) and patients (simplified).
 - **Grad-CAM Heatmaps**: Provides interpretability for doctors by highlighting critical areas in X-rays.
 - **User-Friendly Interface**: Simple upload system for easy interaction and quick results.
@@ -33,7 +33,7 @@ The **BreatheAI** process is designed to be intuitive and quick! Here's what hap
 | Step | Description | Image |
 |------|-------------|-------|
 | 1.   | **Image Upload**: A user uploads a chest X-ray image. | ![Upload Image](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/website_20241025_184029_0000.png) |
-| 2.   | **AI-Powered Analysis**: The model analyzes the image and classifies the detected disease (Viral Pneumonia, Bacterial Pneumonia, Tuberculosis, or others). | ![AI Analysis](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/website3_20241025_184058_0000.png) |
+| 2.   | **AI-Powered Analysis**: The model analyzes the image and classifies the detected disease (Viral Pneumonia, Bacterial Pneumonia, Tuberculosis, Viral Pneumonia,Lung Opacity,COVID-19). | ![AI Analysis](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/website3_20241025_184058_0000.png) |
 
 
 ---
