@@ -73,12 +73,16 @@ To get **BreatheAI** running on your machine, follow these steps:
 - TensorFlow/Keras
 - OpenCV
 - Dependencies listed in <a href="https://github.com/fatma2123456/BreatheAI-Website/blob/main/requirements.txt">requirements.txt</a>
+### Project Structure 🏗️
+
+Here's a breakdown of the project structure:
+├── static │ ├── css │ └── images ├── templates │ ├── index.html # Main page for X-ray uploads │ ├── result.html # Results page for role-based output ├── app.py # Main Flask application ├── model.py # AI model for disease classification ├── gradcam.py # Grad-CAM implementation for heatmaps └── requirements.txt # Python dependencies
 
 ### Installation Instructions:
 
 Let’s get the magic started!✨
 
-```pyhon
+```bush
 1. Clone the Repository
 git clone https://github.com/yourusername/BreatheAI.git
 cd BreatheAI
@@ -92,8 +96,4 @@ flask run
 4. Access the Web Interface
 http://127.0.0.1:5000
 
-----
-
-## Project Structure 🏗️
-
-Here's a breakdown of the project structure:
+---
