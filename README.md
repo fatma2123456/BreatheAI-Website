@@ -36,22 +36,6 @@ The **BreatheAI** process is designed to be intuitive and quick! Here's what hap
 | 2.   | **AI-Powered Analysis**: The model analyzes the image and classifies the detected disease (Viral Pneumonia, Bacterial Pneumonia, Tuberculosis, Viral Pneumonia,Lung Opacity,COVID-19). | ![AI Analysis](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/website3_20241025_184058_0000.png) |
 
 
----
-
-## Class Mapping
-
-Here is the class mapping used in the model, associating respiratory diseases with their corresponding numeric labels:
-
-| Disease Name           | Numeric Label |
-|------------------------|---------------|
-| **COVID-19**           | 0             |
-| **Lung Opacity**       | 1             |
-| **Normal**             | 2             |
-| **Bacterial Pneumonia**| 3             |
-| **Viral Pneumonia**    | 4             |
-| **Tuberculosis**       | 5             |
-
----
 
 ## Role-Based Results
 
