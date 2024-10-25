@@ -57,8 +57,8 @@ Here is the class mapping used in the model, associating respiratory diseases wi
 
 | Role     | Results Description                                       | Image                         |
 |----------|----------------------------------------------------------|-------------------------------|
-| **Doctor** | - Detailed classification.<br>- Grad-CAM heatmap visualization.<br>- Suggested next steps and further diagnostic recommendations. | ![Doctor Results](path/to/doctor-results.jpg) | 
-| **Patient** | - Simplified classification.<br>- Basic disease information.<br>- Guidance on potential next steps for care. | ![Patient Results](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/gradcam_20241025_184120_0000.png) | 
+| **Doctor** | - Detailed classification.<br>- Grad-CAM heatmap visualization.<br>- Suggested next steps and further diagnostic recommendations. | ![Doctor Results](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/gradcam_20241025_184120_0000.png) | 
+| **Patient** | - Simplified classification.<br>- Basic disease information.<br>- Guidance on potential next steps for care. | ![Patient Results](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/patient_20241025_184127_0000.png) | 
 
 ---
 
