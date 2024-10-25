@@ -78,7 +78,7 @@ To get **BreatheAI** running on your machine, follow these steps:
 
 Let’s get the magic started!✨
 
-```bash
+```pyhon
 1. Clone the Repository
 git clone https://github.com/yourusername/BreatheAI.git
 cd BreatheAI
@@ -91,3 +91,9 @@ flask run
 
 4. Access the Web Interface
 http://127.0.0.1:5000
+
+----
+
+## Project Structure 🏗️
+
+Here's a breakdown of the project structure:
