@@ -83,3 +83,7 @@ Let’s get the magic started! First, clone the repository to your local machine
 ```bash
 git clone https://github.com/yourusername/BreatheAI.git
 cd BreatheAI
+
+### 2. Install the Required Dependencies
+```bash
+pip install -r requirements.txt
