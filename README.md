@@ -61,6 +61,22 @@ Here's a quick overview of how **BreatheAI** works from start to finish:
 
 
 ---
+## Future Work 🚀
+
+We have exciting plans for **BreatheAI** to enhance its capabilities and user experience:
+
+1. **Pre-Trained Models for Chest X-Rays**:
+   - We aim to add models like **CheXNet** to analyze chest X-rays more effectively and improve respiratory disease detection.
+
+2. **Medical Chatbot**:
+   - A chatbot will be integrated to provide health tips and help patients manage symptoms while they await a doctor's diagnosis.
+
+3. **User Accounts**:
+   - We'll introduce accounts for patients, doctors, and organizations, allowing personalized services and doctor recommendations.
+
+Stay tuned for these exciting new features! 🙌
+
+---
 
 ## Setup and Installation 🛠️
 
@@ -73,10 +89,7 @@ To get **BreatheAI** running on your machine, follow these steps:
 - TensorFlow/Keras
 - OpenCV
 - Dependencies listed in <a href="https://github.com/fatma2123456/BreatheAI-Website/blob/main/requirements.txt">requirements.txt</a>
-### Project Structure 🏗️
 
-Here's a breakdown of the project structure:
-├── static │ ├── css │ └── images ├── templates │ ├── index.html # Main page for X-ray uploads │ ├── result.html # Results page for role-based output ├── app.py # Main Flask application ├── model.py # AI model for disease classification ├── gradcam.py # Grad-CAM implementation for heatmaps └── requirements.txt # Python dependencies
 
 ### Installation Instructions:
 
