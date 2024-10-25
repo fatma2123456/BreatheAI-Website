@@ -9,10 +9,8 @@ Welcome to **BreatheAI**! This project is designed to assist healthcare professi
 - [Key Features](#key-features-🚀)
 - [How It Works](#how-it-works-🔍)
 - [Visual Workflow](#visual-workflow-🖼️)
-- [Project Structure](#project-structure-🏗️)
 - [Example Output](#example-output-📊)
 - [Future Work](#future-work-🚀)
-- [License](#license-📄)
 
 ---
 
@@ -58,6 +56,17 @@ Here's a quick overview of how **BreatheAI** works from start to finish:
 4. **Results Based on Role**:
    - **Doctor**: Detailed classification with heatmap.
    - **Patient**: Simplified classification with next steps.
+     
+----
+## View the Model Build with VGG19 🛠️
+
+If you're interested in the model build and architecture used in **BreatheAI**, particularly the **VGG19** model, please check out the following resources:
+
+- **VGG19 Model**: The VGG19 architecture is implemented in our project for the effective classification of respiratory diseases from chest X-rays.
+- **Model Code**: You can find the VGG19 implementation in `model.py`. This file contains the architecture and the necessary code to train the model.
+- **Repository**: For more information, visit our GitHub repository: [CLASSIFYING RESPIRATORY DISEASES FROM X-RAYS](https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS).
+
+Feel free to explore the code, and let us know if you have any questions or feedback! Your insights are invaluable to us. 🙏
 
 
 ---
