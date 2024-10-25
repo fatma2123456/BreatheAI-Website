@@ -72,5 +72,5 @@ To get **BreatheAI** running on your machine, follow these steps:
 - Flask
 - TensorFlow/Keras
 - OpenCV
-- Dependencies listed in <a herf="https://github.com/fatma2123456/BreatheAI-Website/blob/main/requirements.txt">`requirements.txt`</a>
+- Dependencies listed in <a herf="https://github.com/fatma2123456/BreatheAI-Website/blob/main/requirements.txt">requirements.txt</a>
 
