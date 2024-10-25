@@ -76,14 +76,18 @@ To get **BreatheAI** running on your machine, follow these steps:
 
 ### Installation Instructions:
 
-#### 1. Clone the Repository
-
-Let’s get the magic started! First, clone the repository to your local machine:
+Let’s get the magic started!✨
 
 ```bash
+1. Clone the Repository
 git clone https://github.com/yourusername/BreatheAI.git
 cd BreatheAI
 
-### 2. Install the Required Dependencies
-```bash
+2. Install the Required Dependencies
 pip install -r requirements.txt
+
+3. Run the Flask Application
+flask run
+
+4. Access the Web Interface
+http://127.0.0.1:5000
