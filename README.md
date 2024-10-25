@@ -37,11 +37,12 @@ The **BreatheAI** process is designed to be intuitive and quick! Here's what hap
 
 
 ## Role-Based Results
+The output from **BreatheAI** is designed with both doctors and patients in mind.
 
 | Role     | Results Description                                       | Image                         |
 |----------|----------------------------------------------------------|-------------------------------|
-| **Doctor** | - Detailed classification.<br>- Grad-CAM heatmap visualization.<br>- Suggested next steps and further diagnostic recommendations. | ![Doctor Results](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/gradcam_20241025_184120_0000.png) | 
-| **Patient** | - Simplified classification.<br>- Basic disease information.<br>- Guidance on potential next steps for care. | ![Patient Results](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/patient_20241025_184127_0000.png) | 
+| **Doctor** | - Detailed classification.<br>- Grad-CAM heatmap visualization.<br>- that visually highlights important regions of the X-ray. | ![Doctor Results](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/gradcam_20241025_184120_0000.png) | 
+| **Patient** | - Simplified classification.<br>- Basic disease information.<br>-The detected disease is presented with a recommendation to consult a healthcare professional for further action. | ![Patient Results](https://github.com/fatma2123456/BreatheAI-Website/blob/main/images/patient_20241025_184127_0000.png) | 
 
 ---
 
