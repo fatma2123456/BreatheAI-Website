@@ -9,7 +9,6 @@ Welcome to **BreatheAI**! This project is designed to assist healthcare professi
 - [Key Features](#key-features-🚀)
 - [How It Works](#how-it-works-🔍)
 - [Visual Workflow](#visual-workflow-🖼️)
-- [Setup and Installation](#setup-and-installation-🛠️)
 - [Project Structure](#project-structure-🏗️)
 - [Example Output](#example-output-📊)
 - [Future Work](#future-work-🚀)
@@ -68,9 +67,9 @@ To get **BreatheAI** running on your machine, follow these steps:
 
 ### Requirements:
 
-- Python 3.x
+- Python 
 - Flask
 - TensorFlow/Keras
 - OpenCV
-- Dependencies listed in <a herf="https://github.com/fatma2123456/BreatheAI-Website/blob/main/requirements.txt">requirements.txt</a>
+- Dependencies listed in <a href="https://github.com/fatma2123456/BreatheAI-Website/blob/main/requirements.txt">requirements.txt</a>
 
